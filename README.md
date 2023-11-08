@@ -9,6 +9,7 @@ This is the title of the project
 ### Description
 This project use _Python_ to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. The code to import the data and answer interesting questions about it by computing descriptive statistics. The script takes in raw input to create an interactive experience in the terminal to present these statistics.
 
+```
 The statistics added are:
 **Popular times of travel (i.e., occurs most often in the start time)**
 * most common month
@@ -28,6 +29,7 @@ The statistics added are:
 * counts of each user type
 * counts of each gender (only available for NYC and Chicago)
 * earliest, most recent, most common year of birth (only available for NYC and Chicago)
+```
 
 ### Files used
 The files used for this are the following fictional data for the UDACITY course:
